@@ -15,7 +15,7 @@ Built with [Delphi](https://www.embarcadero.com/products/delphi/) using the Fire
 It features a REST integration with Replicate.com and OpenAI for providing generative text functionality within the client. You need to sign up for an API keys to access that functionality.
 
 # AutoBlogAI Desktop client Screeshot on Windows
-![AutoBlogAI Desktop client on Windows](/screenshot.jpg)
+![AutoBlogAI Desktop client on Windows](/screenshot.png)
 
 Other Delphi AI clients:
 
