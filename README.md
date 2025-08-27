@@ -28,7 +28,7 @@ curl http://localhost:5000/predictions -X POST -H "Content-Type: application/jso
   }}'
 ```
 
-# AutoBlogAI Desktop client Screeshot on Windows
+# AutoBlogAI Desktop client Screenshot on Windows
 ![AutoBlogAI Desktop client on Windows](/screenshot.png)
 
 Other Delphi AI clients:
